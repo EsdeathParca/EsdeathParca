@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋, welcome to my personal Github. I'll be uploading files here for anyone who needs it, feel free to use it.
 <!--
 **EsdeathParca/EsdeathParca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
